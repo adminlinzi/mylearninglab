@@ -1,3 +1,3 @@
 # mylearninglab
-this is my github learning lab\n
-please view the https://lab.github.com learn more
+this is my github learning lab
+</p>please view the https://lab.github.com learn more
